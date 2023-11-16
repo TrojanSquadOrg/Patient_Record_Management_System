@@ -6,7 +6,21 @@ The Patient Record Management System (PRMS) is a comprehensive software solution
 
 ## Introduction
 
-PRMS offers a streamlined approach to managing patient information by providing distinct user roles: admin, doctor, patient, and nurse. Each user role is equipped with specific functionalities and privileges tailored to their responsibilities. This ensures smooth collaboration and enhances the overall patient care process.
+Utmost priority of hospitals is to provide quality healthcare for every patient and building up of everyday tasks like managing paperwork, scheduling and billing can get in the way of that. Various management systems are built to manage day to day works. Patient Management system is such type of management system that help for solving issues in health sector. Because of the current system, patients face many inconveniences. If we take Outpatient department (OPD) as an example, we can see patients wait in the que for about 20 – 30 minutes to have a token to meet the doctor. After having token, they must wait in another line to meet the doctor. After consulting the doctor patient must wait another que to take their medication via inside pharmacy by showing the prescription. As you can see there is long gap between doctor, patient, and pharmacy. And, if a patient visit hospital few times, each time they keep patient’s detail under different reference numbers. So, lot of patients have same records kept in storeroom. And this redundancy takes up a lot of space or missing documents. Chances of spreading virus are high when exchanging papers among doctor/staff/patient. 
+
+Recognizing these challenges, our team aims to introduce a Patient Management System to revolutionize healthcare administration. This system we are planning to implement can look after outpatients, records, database about treatments, status illness, prescription for the pharmacy and billing. The purpose of the system is minimizing the distance between outpatients and doctors, improve efficient in OPD. 
+PROBLEM STATEMENT
+
+The existing patient management system at Monaragala Nursing Home presents several challenges. Patients endure lengthy waiting times, from acquiring tokens to meeting doctors and obtaining medications, resulting in a substantial gap between the patient, doctor, and pharmacy. Moreover, the manual record-keeping system leads to data redundancy, with patients' details stored under different reference numbers during multiple visits. This redundancy not only consumes valuable storage space but also poses challenges in maintaining and retrieving accurate patient information. Additionally, the exchange of paper documents increases the risk of spreading viruses.
+
+PROJECT OBJECTIVES
+Our project aims to address these issues and revolutionize the patient management system at Monaragala Nursing Home. The key objectives include:
+•	Minimize Waiting Times: Streamline the process from token issuance to medication retrieval, reducing waiting times for patients.
+•	Eliminate Data Redundancy: Assign a unique reference number to each outpatient, thereby minimizing data redundancy and optimizing storage space.
+•	Enhance Document Management: Develop a digital system for storing and retrieving patient records, treatments, illness status, prescriptions, and billing details.
+•	Improve Communication: Facilitate seamless communication between patients and staff, fostering a more efficient outpatient department (OPD).
+•	Mitigate Virus Spread: Reduce the risk of virus transmission by replacing paper-based document exchanges with a secure digital system.
+
 
 ## Key Features
 
