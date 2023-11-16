@@ -10,10 +10,12 @@ Utmost priority of hospitals is to provide quality healthcare for every patient 
 
 Recognizing these challenges, our team aims to introduce a Patient Management System to revolutionize healthcare administration. This system we are planning to implement can look after outpatients, records, database about treatments, status illness, prescription for the pharmacy and billing. The purpose of the system is minimizing the distance between outpatients and doctors, improve efficient in OPD.
 
-PROBLEM STATEMENT
+## Problem Statement
+
 The existing patient management system at Monaragala Nursing Home presents several challenges. Patients endure lengthy waiting times, from acquiring tokens to meeting doctors and obtaining medications, resulting in a substantial gap between the patient, doctor, and pharmacy. Moreover, the manual record-keeping system leads to data redundancy, with patients' details stored under different reference numbers during multiple visits. This redundancy not only consumes valuable storage space but also poses challenges in maintaining and retrieving accurate patient information. Additionally, the exchange of paper documents increases the risk of spreading viruses.
 
-PROJECT OBJECTIVES
+## Project Objectives
+
 Our project aims to address these issues and revolutionize the patient management system at Monaragala Nursing Home. The key objectives include:
 •	Minimize Waiting Times: Streamline the process from token issuance to medication retrieval, reducing waiting times for patients.
 •	Eliminate Data Redundancy: Assign a unique reference number to each outpatient, thereby minimizing data redundancy and optimizing storage space.
