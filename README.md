@@ -61,6 +61,9 @@ If you encounter any issues or have questions about PRMS, please refer to the pr
 
 PRMS is released under the [MIT License](LICENSE), granting you the freedom to use, modify, and distribute the software.
 
+## Java Documentation
+Download java doc and open it with web browser.
+
 ---
 **Note:** This README provides a general overview of the Patient Record Management System. For detailed installation instructions, usage guidelines, and additional documentation, please refer to the respective files and folders within the repository.
 
